@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+
+# Environment configuration
+.env
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build output
+/build
+
+# Editor directories
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Application specific
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
